@@ -8,9 +8,7 @@ import {Container} from 'react-bootstrap'
 
 ReactDOM.render(
   <React.StrictMode>
-    <Container>
       <App />
-    </Container>
   </React.StrictMode>,
   document.getElementById('root')
 );
