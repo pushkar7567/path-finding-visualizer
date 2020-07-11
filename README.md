@@ -2,7 +2,7 @@ Path Finding Visulizer:
 
 A path finding visualizer created using React.js. Visit https://path-finder.web.app to out the project.
 (Note: The grid does not render well in deployment and gives white spaces. It is recommended to run using
-docker instructions below.)
+docker instructions below or cloning the repo and then installing dependencies using npm install and then run using "npm start".)
 Weight and unweighted graph:
 
 Features:
